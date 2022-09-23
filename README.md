@@ -28,7 +28,7 @@ There is a jupyter notebook file which contains code used to answer these questi
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://medium.com/@rachatachankanasuk/airbnb-boston-dataset-analysis-e8e0640474c5).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
